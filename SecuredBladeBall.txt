@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/PawsThePaw/ozware-2/main/Protected_3068390971307945.lua.txt", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PawsThePaw/ozware-2/main/Protected_2462181772458912.lua.txt", true))()
